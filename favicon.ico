@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Free Metal Roofing Estimate GTA | SteelCrest Roofing — (437) 223-3414</title>
+<meta name="description" content="Get a free metal roofing estimate in Toronto, Mississauga, Brampton & GTA. SteelCrest Roofing — licensed, insured, 50-year warranty. Response within 24 hours.">
+<meta name="robots" content="noindex, follow"><!-- noindex keeps ad spend on main page -->
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="canonical" href="https://steelcrestroofing.ca/contact.html">
+
+<!-- Google Ads + GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T2TW5CS2F1"></script>
+<script>
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());
+gtag('config','G-T2TW5CS2F1');
+gtag('config','AW-18066894111');
+
+function trackFormSubmit(){
+  gtag('event','conversion',{
+    'send_to':'AW-18066894111/XXXXXXXXX',
+    'value':150.0,'currency':'CAD',
+    'transaction_id':Date.now()
+  });
+  gtag('event','generate_lead',{
+    'event_category':'form',
+    'event_label':'landing_page_estimate',
+    'value':150
+  });
+}
+function trackPhoneClick(){
+  gtag('event','conversion',{'send_to':'AW-18066894111/XXXXXXXXX'});
+  gtag('event','click',{'event_category':'phone','event_label':'landing_page_call'});
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@300;400;500;600;700&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --steel:#1a1f2e;
+  --iron:#2c3347;
+  --rust:#c94a1f;
+  --rust-light:#e05a28;
+  --silver:#8b97a8;
+  --chrome:#c8d4e0;
+  --white:#f0f4f8;
+  --gold:#d4922a;
+  --green:#2ecc71;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{font-family:'Barlow',sans-serif;background:var(--steel);color:var(--white);min-height:100vh;}
+
+/* TOP BAR */
+.topbar{
+  background:var(--rust);
+  padding:.6rem 2rem;
+  display:flex;align-items:center;justify-content:center;gap:2rem;flex-wrap:wrap;
+}
+.topbar a{
+  color:#fff;text-decoration:none;
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:.9rem;letter-spacing:2px;text-transform:uppercase;font-weight:700;
+  display:flex;align-items:center;gap:.4rem;
+  transition:opacity .2s;
+}
+.topbar a:hover{opacity:.85;}
+
+/* NAV */
+nav{
+  background:rgba(26,31,46,0.97);
+  padding:1rem 3rem;
+  display:flex;align-items:center;justify-content:space-between;
+  border-bottom:2px solid rgba(201,74,31,.4);
+}
+.logo{font-family:'Bebas Neue',sans-serif;font-size:1.8rem;letter-spacing:3px;color:var(--white);text-decoration:none;}
+.logo span{color:var(--rust);}
+.nav-back{
+  color:var(--silver);text-decoration:none;
+  font-size:.8rem;letter-spacing:1.5px;text-transform:uppercase;font-weight:600;
+  transition:color .2s;display:flex;align-items:center;gap:.4rem;
+}
+.nav-back:hover{color:var(--chrome);}
+
+/* HERO STRIP */
+.hero-strip{
+  background:linear-gradient(135deg,#0d1018 0%,#1a1f2e 60%,#0a0d15 100%);
+  padding:3.5rem 3rem 2.5rem;
+  text-align:center;
+  position:relative;overflow:hidden;
+}
+.hero-strip::before{
+  content:'';position:absolute;inset:0;
+  background-image:linear-gradient(rgba(139,151,168,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(139,151,168,.05) 1px,transparent 1px);
+  background-size:50px 50px;
+}
+.hero-strip::after{
+  content:'';position:absolute;top:0;right:0;
+  width:40%;height:100%;
+  background:linear-gradient(135deg,rgba(201,74,31,.12),transparent 70%);
+  clip-path:polygon(30% 0%,100% 0%,100% 100%,0% 100%);
+}
+.hero-strip-inner{position:relative;z-index:2;}
+.hs-tag{
+  display:inline-block;
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:.75rem;letter-spacing:4px;text-transform:uppercase;
+  color:var(--rust-light);border:1px solid rgba(201,74,31,.4);
+  padding:.35rem 1.1rem;border-radius:2px;margin-bottom:1rem;
+}
+.hero-strip h1{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:clamp(2.2rem,5vw,4rem);
+  letter-spacing:2px;line-height:1;margin-bottom:.8rem;
+}
+.hero-strip h1 em{font-style:normal;color:var(--rust);}
+.hero-strip p{
+  color:var(--silver);font-size:.95rem;
+  max-width:520px;margin:0 auto 1.5rem;line-height:1.7;
+}
+
+/* TRUST PILLS */
+.trust-pills{
+  display:flex;gap:.6rem;justify-content:center;flex-wrap:wrap;margin-bottom:.5rem;
+}
+.pill{
+  background:rgba(201,74,31,.1);border:1px solid rgba(201,74,31,.25);
+  padding:.3rem .9rem;border-radius:2px;
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:.75rem;letter-spacing:1.5px;text-transform:uppercase;
+  color:var(--rust-light);font-weight:700;
+}
+
+/* MAIN LAYOUT */
+.main{
+  display:grid;grid-template-columns:1fr 420px;
+  gap:0;max-width:1100px;margin:0 auto;
+  padding:2.5rem 2rem 4rem;
+}
+
+/* FORM CARD */
+.form-card{
+  background:var(--iron);
+  border:1px solid rgba(201,74,31,.3);
+  border-top:4px solid var(--rust);
+  border-radius:4px;
+  padding:2.5rem;
+  position:sticky;top:1.5rem;
+  height:fit-content;
+  box-shadow:0 20px 60px rgba(0,0,0,.4);
+}
+.form-card-title{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:1.9rem;letter-spacing:2px;margin-bottom:.3rem;
+}
+.form-card-sub{color:var(--silver);font-size:.85rem;margin-bottom:1.8rem;line-height:1.5;}
+
+/* URGENCY BAR */
+.urgency{
+  background:rgba(212,146,42,.1);border:1px solid rgba(212,146,42,.3);
+  padding:.6rem 1rem;border-radius:2px;margin-bottom:1.5rem;
+  font-size:.78rem;color:var(--gold);line-height:1.5;
+}
+.urgency strong{display:block;font-size:.82rem;margin-bottom:.2rem;}
+
+.fg{display:flex;flex-direction:column;gap:.35rem;margin-bottom:.9rem;}
+.fg label{font-size:.7rem;letter-spacing:2px;text-transform:uppercase;color:var(--silver);font-weight:600;}
+.fg input,.fg select,.fg textarea{
+  background:rgba(26,31,46,.8);
+  border:1px solid rgba(139,151,168,.2);
+  border-radius:2px;color:var(--white);
+  padding:.75rem 1rem;font-family:'Barlow',sans-serif;font-size:.9rem;
+  transition:border-color .2s;width:100%;
+}
+.fg input:focus,.fg select:focus,.fg textarea:focus{outline:none;border-color:var(--rust);}
+.fg select option{background:var(--steel);}
+.fg textarea{resize:vertical;min-height:80px;}
+.fg input::placeholder,.fg textarea::placeholder{color:var(--silver);opacity:.5;}
+.frow{display:grid;grid-template-columns:1fr 1fr;gap:.8rem;}
+
+.f-err{
+  background:rgba(201,74,31,.12);border:1px solid rgba(201,74,31,.35);
+  padding:.6rem .9rem;border-radius:2px;color:var(--rust-light);
+  font-size:.82rem;margin-bottom:.8rem;display:none;
+}
+.f-submit{
+  width:100%;padding:1rem;
+  background:var(--rust);color:var(--white);
+  border:none;border-radius:2px;
+  font-family:'Barlow',sans-serif;font-size:.9rem;
+  letter-spacing:2px;text-transform:uppercase;font-weight:700;
+  cursor:pointer;transition:background .2s,transform .15s;
+  margin-top:.3rem;
+}
+.f-submit:hover{background:var(--rust-light);transform:translateY(-1px);}
+.f-submit:disabled{background:var(--silver);cursor:not-allowed;transform:none;}
+
+.divider{
+  display:flex;align-items:center;gap:.8rem;
+  margin:1rem 0;color:var(--silver);font-size:.78rem;
+}
+.divider::before,.divider::after{content:'';flex:1;height:1px;background:rgba(139,151,168,.2);}
+
+.call-btn{
+  display:flex;align-items:center;justify-content:center;gap:.6rem;
+  width:100%;padding:.9rem;
+  background:rgba(46,204,113,.1);border:1px solid rgba(46,204,113,.3);
+  border-radius:2px;color:#2ecc71;
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:1.1rem;letter-spacing:2px;text-transform:uppercase;font-weight:700;
+  text-decoration:none;transition:background .2s,border-color .2s;
+}
+.call-btn:hover{background:rgba(46,204,113,.2);border-color:rgba(46,204,113,.5);}
+
+.f-success{
+  display:none;text-align:center;padding:2rem 0;
+}
+.f-success .s-icon{font-size:3rem;margin-bottom:1rem;}
+.f-success h3{
+  font-family:'Bebas Neue',sans-serif;font-size:2rem;
+  color:#2ecc71;margin-bottom:.5rem;
+}
+.f-success p{color:var(--silver);line-height:1.7;font-size:.9rem;}
+
+/* LEFT CONTENT */
+.left-col{padding-right:3rem;}
+
+.why-choose{margin-bottom:2.5rem;}
+.wc-title{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:1.8rem;letter-spacing:1px;margin-bottom:1.2rem;
+}
+.wc-item{
+  display:flex;gap:1rem;align-items:flex-start;
+  padding:1rem 0;border-bottom:1px solid rgba(139,151,168,.1);
+}
+.wc-item:last-child{border-bottom:none;}
+.wc-icon{
+  width:44px;height:44px;flex-shrink:0;
+  background:rgba(201,74,31,.12);border:1px solid rgba(201,74,31,.3);
+  border-radius:2px;display:grid;place-items:center;font-size:1.2rem;
+}
+.wc-text h4{font-weight:700;font-size:.95rem;margin-bottom:.25rem;}
+.wc-text p{color:var(--silver);font-size:.85rem;line-height:1.6;}
+
+/* REVIEWS */
+.reviews-mini{margin-bottom:2.5rem;}
+.rm-title{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:1.4rem;letter-spacing:1px;margin-bottom:1rem;
+}
+.rm-card{
+  background:var(--iron);border-left:3px solid var(--rust);
+  padding:1.2rem 1.4rem;margin-bottom:.8rem;border-radius:0 4px 4px 0;
+  position:relative;
+}
+.rm-stars{color:var(--gold);font-size:.8rem;margin-bottom:.5rem;}
+.rm-card p{color:var(--chrome);font-size:.85rem;line-height:1.7;margin-bottom:.6rem;}
+.rm-author{font-size:.78rem;color:var(--silver);font-weight:600;}
+
+/* STATS STRIP */
+.stats-strip{
+  display:grid;grid-template-columns:repeat(3,1fr);
+  gap:1px;background:rgba(139,151,168,.1);
+  border:1px solid rgba(139,151,168,.1);border-radius:4px;
+  overflow:hidden;margin-bottom:2.5rem;
+}
+.ss-item{
+  background:var(--iron);padding:1.2rem;text-align:center;
+}
+.ss-num{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:2rem;color:var(--rust);line-height:1;
+}
+.ss-label{font-size:.7rem;letter-spacing:1.5px;text-transform:uppercase;color:var(--silver);margin-top:.2rem;}
+
+/* SERVICES LIST */
+.services-list{margin-bottom:2rem;}
+.sl-title{font-family:'Bebas Neue',sans-serif;font-size:1.4rem;letter-spacing:1px;margin-bottom:1rem;}
+.sl-item{
+  display:flex;align-items:center;gap:.7rem;
+  padding:.6rem 0;border-bottom:1px solid rgba(139,151,168,.08);
+  font-size:.88rem;color:var(--chrome);
+}
+.sl-item::before{content:'▸';color:var(--rust);font-size:.8rem;}
+
+/* FOOTER */
+.lp-footer{
+  background:#060810;border-top:1px solid rgba(139,151,168,.1);
+  padding:1.5rem 3rem;
+  display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;
+  font-size:.78rem;color:var(--silver);
+}
+.lp-footer a{color:var(--silver);text-decoration:none;}
+.lp-footer a:hover{color:var(--chrome);}
+
+/* MOBILE STICKY CTA */
+.mob-cta{
+  display:none;position:fixed;bottom:0;left:0;right:0;z-index:999;
+  background:var(--rust);padding:.9rem 1.5rem;
+  display:none;align-items:center;justify-content:center;gap:1rem;
+}
+.mob-cta a{
+  color:#fff;text-decoration:none;
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:1rem;letter-spacing:1.5px;text-transform:uppercase;font-weight:700;
+}
+
+@media(max-width:860px){
+  .main{grid-template-columns:1fr;padding:1.5rem 1.2rem 6rem;}
+  .left-col{padding-right:0;margin-bottom:2rem;order:2;}
+  .form-card{position:static;order:1;}
+  .frow{grid-template-columns:1fr;}
+  nav{padding:.8rem 1.2rem;}
+  .hero-strip{padding:2rem 1.2rem 1.5rem;}
+  .mob-cta{display:flex;}
+  .lp-footer{padding:1.2rem;}
+  .stats-strip{grid-template-columns:repeat(3,1fr);}
+}
+</style>
+</head>
+<body>
+
+<!-- TOP PHONE BAR -->
+<div class="topbar">
+  <a href="tel:+14372233414" onclick="trackPhoneClick()">📞 (437) 223-3414 — Call for Fastest Response</a>
+  <span style="color:rgba(255,255,255,.5);font-size:.8rem;">|</span>
+  <span style="font-family:'Barlow Condensed',sans-serif;font-size:.82rem;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,.85);font-weight:700;">⚡ Response within 24 hours</span>
+</div>
+
+<!-- NAV -->
+<nav>
+  <a href="index.html" class="logo">Steel<span>Crest</span></a>
+  <a href="index.html" class="nav-back">← Back to Website</a>
+</nav>
+
+<!-- HERO STRIP -->
+<div class="hero-strip">
+  <div class="hero-strip-inner">
+    <div class="hs-tag">🏆 GTA's Trusted Metal Roofing Specialists</div>
+    <h1>GET YOUR <em>FREE</em><br>ROOFING ESTIMATE</h1>
+    <p>Fill out the form — we'll get back to you within 24 hours with a detailed, no-obligation quote.</p>
+    <div class="trust-pills">
+      <span class="pill">✅ Licensed & Insured</span>
+      <span class="pill">🏅 50-Year Warranty</span>
+      <span class="pill">⭐ 4.9 Google Rating</span>
+      <span class="pill">🚀 Same-Week Service</span>
+    </div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<div class="main">
+
+  <!-- LEFT COLUMN -->
+  <div class="left-col">
+
+    <!-- STATS -->
+    <div class="stats-strip">
+      <div class="ss-item"><div class="ss-num">250+</div><div class="ss-label">Projects Done</div></div>
+      <div class="ss-item"><div class="ss-num">50yr</div><div class="ss-label">Warranty</div></div>
+      <div class="ss-item"><div class="ss-num">4.9★</div><div class="ss-label">Google Rating</div></div>
+    </div>
+
+    <!-- WHY CHOOSE -->
+    <div class="why-choose">
+      <div class="wc-title">WHY STEELCREST?</div>
+      <div class="wc-item">
+        <div class="wc-icon">🏅</div>
+        <div class="wc-text"><h4>Factory-Certified Installers</h4><p>Certified by top steel manufacturers. Your 50-year warranty is fully backed — no loopholes.</p></div>
+      </div>
+      <div class="wc-item">
+        <div class="wc-icon">💲</div>
+        <div class="wc-text"><h4>Transparent, Detailed Quotes</h4><p>No hidden fees, no vague numbers. You get a full written breakdown before any work begins.</p></div>
+      </div>
+      <div class="wc-item">
+        <div class="wc-icon">⚡</div>
+        <div class="wc-text"><h4>Fast Turnaround — 1 to 3 Days</h4><p>Most GTA homes completed in 1–3 days. We show up on time and finish on schedule.</p></div>
+      </div>
+      <div class="wc-item">
+        <div class="wc-icon">🇨🇦</div>
+        <div class="wc-text"><h4>Built for Canadian Winters</h4><p>Every system engineered for heavy snow loads, ice dams, and GTA freeze-thaw cycles.</p></div>
+      </div>
+      <div class="wc-item">
+        <div class="wc-icon">✅</div>
+        <div class="wc-text"><h4>$5M Liability Insurance</h4><p>Fully licensed Ontario roofing contractor. You're fully protected on every single job.</p></div>
+      </div>
+    </div>
+
+    <!-- SERVICES -->
+    <div class="services-list">
+      <div class="sl-title">SERVICES WE ESTIMATE</div>
+      <div class="sl-item">Metal Roof Installation (Standing Seam, Corrugated, Shingles)</div>
+      <div class="sl-item">Full Roof Replacement — Asphalt to Metal Upgrade</div>
+      <div class="sl-item">Roof Repair & Storm Damage Restoration</div>
+      <div class="sl-item">Snow Guard System Installation</div>
+      <div class="sl-item">Roof Inspections & Insurance Assessments</div>
+      <div class="sl-item">Zinc & Copper Premium Roofing</div>
+    </div>
+
+    <!-- REVIEWS -->
+    <div class="reviews-mini">
+      <div class="rm-title">WHAT GTA HOMEOWNERS SAY</div>
+      <div class="rm-card">
+        <div class="rm-stars">★★★★★</div>
+        <p>"Replaced our shingles with a standing seam steel roof. Professional, fast, and left the site spotless. Our hydro bill dropped noticeably."</p>
+        <div class="rm-author">— Michael K., Mississauga</div>
+      </div>
+      <div class="rm-card">
+        <div class="rm-stars">★★★★★</div>
+        <p>"Detailed quote, finished ahead of schedule. Two years later the roof looks immaculate. Will recommend to everyone."</p>
+        <div class="rm-author">— Sandra R., Vaughan</div>
+      </div>
+      <div class="rm-card">
+        <div class="rm-stars">★★★★★</div>
+        <p>"Storm damage — responded within 24 hours. Dealt with the insurance adjuster directly. Outstanding service."</p>
+        <div class="rm-author">— David P., Markham</div>
+      </div>
+    </div>
+
+  </div><!-- /left-col -->
+
+  <!-- FORM CARD -->
+  <div class="form-card">
+    <div class="form-card-title">FREE ESTIMATE</div>
+    <p class="form-card-sub">Fill in your details — we'll respond within 24 hours with a no-obligation quote.</p>
+
+    <div class="urgency">
+      <strong>⚡ Limited Availability This Week</strong>
+      We're currently booking estimates for the GTA. Secure your spot today.
+    </div>
+
+    <div class="f-err" id="fErr">Please fill in all required fields (*).</div>
+
+    <div id="fForm">
+      <div class="frow">
+        <div class="fg"><label>Full Name *</label><input type="text" id="f_name" placeholder="John Smith"></div>
+        <div class="fg"><label>Phone *</label><input type="tel" id="f_phone" placeholder="(416) 555-0000"></div>
+      </div>
+      <div class="fg"><label>Email *</label><input type="email" id="f_email" placeholder="you@email.com"></div>
+      <div class="fg"><label>City / Area *</label><input type="text" id="f_city" placeholder="Mississauga, ON"></div>
+      <div class="fg"><label>Property Address</label><input type="text" id="f_address" placeholder="123 Maple St, Toronto, ON"></div>
+      <div class="frow">
+        <div class="fg">
+          <label>Roof Type *</label>
+          <select id="f_rooftype">
+            <option value="">— Select —</option>
+            <option>Standing Seam Metal</option>
+            <option>Corrugated Metal</option>
+            <option>Metal Shingles</option>
+            <option>Flat / Commercial</option>
+            <option>Zinc / Copper</option>
+            <option>Not Sure</option>
+          </select>
+        </div>
+        <div class="fg">
+          <label>Type of Work *</label>
+          <select id="f_worktype">
+            <option value="">— Select —</option>
+            <option>New Installation</option>
+            <option>Full Replacement</option>
+            <option>Repair / Patch</option>
+            <option>Inspection Only</option>
+            <option>Snow Guards</option>
+          </select>
+        </div>
+      </div>
+      <div class="fg"><label>Project Details</label><textarea id="f_message" placeholder="Roof size, current condition, any specific concerns..."></textarea></div>
+      <button class="f-submit" id="fBtn" onclick="submitForm()">📨 Send My Free Estimate Request</button>
+
+      <div class="divider">or call us directly</div>
+      <a href="tel:+14372233414" class="call-btn" onclick="trackPhoneClick()">
+        📞 (437) 223-3414
+      </a>
+    </div>
+
+    <div class="f-success" id="fSuccess">
+      <div class="s-icon">✅</div>
+      <h3>REQUEST SENT!</h3>
+      <p>Your estimate request has been received.<br>We'll contact you within <strong>24 hours</strong>.<br><br>Need faster response?<br><a href="tel:+14372233414" style="color:var(--rust-light)" onclick="trackPhoneClick()">Call (437) 223-3414</a></p>
+    </div>
+  </div>
+
+</div><!-- /main -->
+
+<!-- FOOTER -->
+<div class="lp-footer">
+  <span>© 2026 SteelCrest Roofing Ltd. — Licensed & Insured — Ontario Roofing Contractor</span>
+  <span><a href="index.html">← Back to Website</a> · <a href="tel:+14372233414" onclick="trackPhoneClick()">(437) 223-3414</a></span>
+</div>
+
+<!-- MOBILE STICKY CTA -->
+<div class="mob-cta">
+  <a href="tel:+14372233414" onclick="trackPhoneClick()">📞 Call Now</a>
+  <span style="color:rgba(255,255,255,.4)">|</span>
+  <a href="#" onclick="document.getElementById('f_name').focus();return false;">📋 Get Free Estimate ↑</a>
+</div>
+
+<script>
+async function submitForm(){
+  var name=document.getElementById('f_name').value.trim();
+  var phone=document.getElementById('f_phone').value.trim();
+  var email=document.getElementById('f_email').value.trim();
+  var city=document.getElementById('f_city').value.trim();
+  var address=document.getElementById('f_address').value.trim();
+  var rooftype=document.getElementById('f_rooftype').value;
+  var worktype=document.getElementById('f_worktype').value;
+  var message=document.getElementById('f_message').value.trim();
+  var errEl=document.getElementById('fErr');
+
+  if(!name||!phone||!email||!city||!rooftype||!worktype){
+    errEl.textContent='Please fill in all required fields (*).';
+    errEl.style.display='block';
+    return;
+  }
+  errEl.style.display='none';
+  var btn=document.getElementById('fBtn');
+  btn.disabled=true;
+  btn.textContent='Sending...';
+
+  try{
+    var resp=await fetch('https://formspree.io/f/xdapyekw',{
+      method:'POST',
+      headers:{'Content-Type':'application/json','Accept':'application/json'},
+      body:JSON.stringify({
+        name,phone,email,city,
+        address:address||'Not provided',
+        roof_type:rooftype,
+        work_type:worktype,
+        message:message||'No comments.',
+        source:'Landing Page — contact.html'
+      })
+    });
+    if(resp.ok){
+      document.getElementById('fForm').style.display='none';
+      document.getElementById('fSuccess').style.display='block';
+      trackFormSubmit();
+    } else {
+      throw new Error('Failed');
+    }
+  } catch(err){
+    errEl.textContent='Failed to send. Please call (437) 223-3414 directly.';
+    errEl.style.display='block';
+    btn.disabled=false;
+    btn.textContent='📨 Send My Free Estimate Request';
+  }
+}
+</script>
+
+</body>
+</html>
